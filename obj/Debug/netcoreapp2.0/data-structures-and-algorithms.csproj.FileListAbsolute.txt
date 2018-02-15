@@ -1,0 +1,10 @@
+d:\bquadre\Projects\naive2ninja\data-structures-and-algorithms\bin\Debug\netcoreapp2.0\data-structures-and-algorithms.deps.json
+d:\bquadre\Projects\naive2ninja\data-structures-and-algorithms\bin\Debug\netcoreapp2.0\data-structures-and-algorithms.runtimeconfig.json
+d:\bquadre\Projects\naive2ninja\data-structures-and-algorithms\bin\Debug\netcoreapp2.0\data-structures-and-algorithms.runtimeconfig.dev.json
+d:\bquadre\Projects\naive2ninja\data-structures-and-algorithms\bin\Debug\netcoreapp2.0\data-structures-and-algorithms.dll
+d:\bquadre\Projects\naive2ninja\data-structures-and-algorithms\bin\Debug\netcoreapp2.0\data-structures-and-algorithms.pdb
+d:\bquadre\Projects\naive2ninja\data-structures-and-algorithms\obj\Debug\netcoreapp2.0\data-structures-and-algorithms.csproj.CoreCompileInputs.cache
+d:\bquadre\Projects\naive2ninja\data-structures-and-algorithms\obj\Debug\netcoreapp2.0\data-structures-and-algorithms.AssemblyInfoInputs.cache
+d:\bquadre\Projects\naive2ninja\data-structures-and-algorithms\obj\Debug\netcoreapp2.0\data-structures-and-algorithms.AssemblyInfo.cs
+d:\bquadre\Projects\naive2ninja\data-structures-and-algorithms\obj\Debug\netcoreapp2.0\data-structures-and-algorithms.dll
+d:\bquadre\Projects\naive2ninja\data-structures-and-algorithms\obj\Debug\netcoreapp2.0\data-structures-and-algorithms.pdb
